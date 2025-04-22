@@ -3,10 +3,15 @@
 A Human Resource Management System built with **React + Vite** on the frontend and **Supabase** as the backend.
 
 ---
+## 🔐 Credentials
 
+- Email: admin@example.com
+- Password: Abcd@123
+
+---
 ## 🚀 Features
 
-- 🔐 Role-based access (Admin, HR, Employee, etc.)
+- 🔐 Role-based access (Admin, Employee)
 - 👥 Employee management
 - 📅 Attendance tracking
 - 🔑 Login/Signup with Supabase Auth
