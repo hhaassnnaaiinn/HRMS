@@ -1,6 +1,24 @@
 # HRMS
-A Human Resource Management System built with React+vite and Supabase as backend.
 
-# Login credentials
-admin@example.com
-Abcd@123
+A Human Resource Management System built with **React + Vite** on the frontend and **Supabase** as the backend.
+
+---
+
+## 🚀 Features
+
+- 🔐 Role-based access (Admin, HR, Employee, etc.)
+- 👥 Employee management
+- 📅 Attendance tracking
+- 🔑 Login/Signup with Supabase Auth
+- 💻 Modern UI with React and TailwindCSS
+
+---
+
+## 📁 Environment Setup
+
+1. Create a `.env` file in the project root directory.
+2. Copy and paste the following:
+
+```env
+VITE_SUPABASE_URL=https://xxxxxxxx.supabase.co
+VITE_SUPABASE_ANON_KEY=xxxxxxxxxxxxxxxxxxxxxx
